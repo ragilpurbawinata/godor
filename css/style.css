@@ -1,0 +1,26 @@
+body {
+  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  background: url('../img/bg.jpg') no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.judul{
+	font-weight: bold;
+}
+.info{
+	font-size: 2em;
+	padding-top: 120px;
+	padding-right: 150px;
+	color: #ffffff;
+}
+.game{
+	padding-top: 120px;
+}
+.footer{
+	font-size: 1em;
+	padding-top: 100px;
+	text-align: center;
+	color: #ffffff;
+}
+
